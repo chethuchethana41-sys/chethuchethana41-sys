@@ -3,7 +3,7 @@
 
 <h3 align="center">
 Data Analyst | SQL • Python • Power BI • Tableau  
-Turning Raw Data into Business Insights
+Turning Data Into Business Decisions
 </h3>
 
 <p align="center">
@@ -11,40 +11,51 @@ Turning Raw Data into Business Insights
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=00F2FF&center=true&vCenter=true&width=700&lines=Electronics+Engineer+→+Data+Analyst;1M%2B+Records+Analyzed;KPI+Driven+Dashboards;SQL+%7C+Python+%7C+Power+BI;Actively+Seeking+Data+Analyst+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=00F2FF&center=true&vCenter=true&width=750&lines=Electronics+Engineer+→+Data+Analyst;1M%2B+Records+Analyzed;Built+Executive+Dashboards;SQL+%7C+Python+%7C+Power+BI;Actively+Seeking+Data+Analyst+Opportunities" />
 </p>
 
 ---
 
-## 🚀 Professional Summary
+## 💡 About Me
 
-Electronics & Communication Engineering graduate who transitioned into Data Analytics to apply structured engineering thinking to business data.
+I transitioned from **Electronics & Communication Engineering** to **Data Analytics**, combining analytical engineering thinking with business-driven insights.
 
 ✔ Analyzed 1M+ records  
-✔ Built dashboards tracking 15+ KPIs  
-✔ Performed SQL-driven business analysis  
-✔ Automated reporting workflows  
+✔ Built KPI dashboards tracking 15+ business metrics  
+✔ Automated SQL-based reporting workflows  
+✔ Delivered data-driven insights for decision-making  
 
-Actively seeking a **Data Analyst role** where I can deliver measurable business impact.
+I am actively seeking opportunities where I can create measurable business impact through analytics.
+
+---
+
+## 🚀 Quick Access
+
+<p align="center">
+<a href="https://github.com/chethuchethana41-sys/PORTFOLIO">
+<img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/chethuchethana41-sys/data-analyst-projects">
+<img src="https://img.shields.io/badge/All_Analytics_Projects-005C84?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chethana-ck-374429380">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ## 📊 Featured Projects
 
-### 🔹 CRM Sales Dashboard  
-SQL + Power BI  
-Built interactive KPI dashboards and analyzed large-scale customer data.
-
 ### 🔹 Adventure Works Sales Analysis  
 SQL + Excel + Power BI  
-Performed trend and variance analysis with executive-level dashboards.
+Business performance trend analysis with executive dashboard reporting.
 
----
-
-## 📂 Explore More Projects
-
-👉 View all analytics projects here:  
-🔗 https://github.com/chethuchethana41-sys/data-analyst-projects
+### 🔹 CRM Sales Dashboard  
+SQL + Power BI  
+Interactive KPI dashboard with customer segmentation insights.
 
 ---
 
@@ -74,19 +85,6 @@ Performed trend and variance analysis with executive-level dashboards.
 
 ---
 
-## 📫 Connect With Me
-
 <p align="center">
-<a href="https://www.linkedin.com/in/chethana-ck-374429380" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/chethuchethana41-sys" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
-<p align="center">
-⭐ <b>Engineering Logic + Business Analytics = Data-Driven Impact</b>
+⭐ Engineering Logic + Business Analytics = Data-Driven Impact
 </p>
