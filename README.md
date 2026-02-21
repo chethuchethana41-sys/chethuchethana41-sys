@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Chethana C K</h1>
 
 <h3 align="center">
@@ -10,12 +11,12 @@ Turning Raw Data into Business Insights
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=00F2FF&center=true&vCenter=true&width=700&lines=Electronics+Engineer+→+Data+Analyst;1M%2B+Records+Analyzed;KPI+Driven+Dashboards;SQL+%7C+Python+%7C+Power+BI;Actively+Seeking+Data+Analyst+Role" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=00F2FF&center=true&vCenter=true&width=700&lines=Electronics+Engineer+→+Data+Analyst;1M%2B+Records+Analyzed;KPI+Driven+Dashboards;SQL+%7C+Python+%7C+Power+BI;Actively+Seeking+Data+Analyst+Opportunities" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Professional Summary
 
 Electronics & Communication Engineering graduate who transitioned into Data Analytics to apply structured engineering thinking to business data.
 
@@ -24,7 +25,7 @@ Electronics & Communication Engineering graduate who transitioned into Data Anal
 ✔ Performed SQL-driven business analysis  
 ✔ Automated reporting workflows  
 
-Currently **actively seeking Data Analyst opportunities**.
+Actively seeking a **Data Analyst role** where I can deliver measurable business impact.
 
 ---
 
@@ -36,13 +37,13 @@ Built interactive KPI dashboards and analyzed large-scale customer data.
 
 ### 🔹 Adventure Works Sales Analysis  
 SQL + Excel + Power BI  
-Performed trend analysis and developed executive-level dashboards.
+Performed trend and variance analysis with executive-level dashboards.
 
 ---
 
 ## 📂 Explore More Projects
 
-👉 View all my analytics projects here:  
+👉 View all analytics projects here:  
 🔗 https://github.com/chethuchethana41-sys/data-analyst-projects
 
 ---
@@ -61,6 +62,15 @@ Performed trend analysis and developed executive-level dashboards.
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chethuchethana41-sys&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chethuchethana41-sys&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
